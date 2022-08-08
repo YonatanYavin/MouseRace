@@ -14,6 +14,7 @@ Every element has:
   Determined by type: Circle - Chase, Square - Escape, Rectangle - Random
 
 · Size (random)
+
 · Speed (random)
 
 The rules of the game:
