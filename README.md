@@ -13,14 +13,11 @@ Every element has:
   circle, square, rectangle.
   Determined by type: Circle - Chase, Square - Escape, Rectangle - Random
 
-·Size (random)
-·Speed (random)
+· Size (random)
+· Speed (random)
 
 The rules of the game:
-· When you click ‘Start’ all the elements appear in random places.
-· The player has a score that is shown on the screen, it goes up by 1 each second.
-· At any given moment, an element moves within the logic determined by its type.
-· When an element touches the mouse, it performs his ‘onHitTarget’ function, by the type of element:
+When you click ‘Start’ all the elements appear in random places. The player has a score that is shown on the screen, it goes up by 1 each second. At any given moment, an element moves within the logic determined by its type. When an element touches the mouse, it performs his ‘onHitTarget’ function, by the type of element:
 - Chase: Game Over
 - Random: Game Over
 - Escape: The player gains 5 points and the element launches to a random place on the screen.
