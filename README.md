@@ -3,14 +3,16 @@
 
 There are different elements on the screen.
 Every element has:
+
 · Type:
 - Chase: Move towards the mouse
 - Escape: Move away from the mouse
 - Random: Move in a straight line. When he hits the end of the screen, switch direction randomly
-- 
+
 · Shape:
   circle, square, rectangle.
   Determined by type: Circle - Chase, Square - Escape, Rectangle - Random
+
 ·Size (random)
 ·Speed (random)
 
